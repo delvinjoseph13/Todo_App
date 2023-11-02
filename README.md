@@ -1,3 +1,7 @@
+
+![Screenshot 2023-11-02 195904](https://github.com/delvinjoseph13/Todo_App-reactJs/assets/124490000/57a765be-b0cd-46e0-bcd9-efded10b444c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
